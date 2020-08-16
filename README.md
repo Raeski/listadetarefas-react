@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="public/assets/logo.png">
-</p>
 
 
 ![screentarefas](https://user-images.githubusercontent.com/46768410/90325574-b9296980-df53-11ea-8a08-fd2d354399ef.png)
